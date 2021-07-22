@@ -8,6 +8,7 @@
 # Installation
 1. Clone repository: `git clone https://github.com/walzimmer/bat-3d.git`
 2. Install npm 
+   + Linux: `sudo apt-get install nodejs-dev node-gyp libssl1.0-dev`
    + Linux: `sudo apt-get install npm`
    + Windows: https://nodejs.org/dist/v10.15.0/node-v10.15.0-x86.msi
 3. Install PHP Storm or WebStorm (IDE with integrated web server): https://www.jetbrains.com/phpstorm/download/download-thanks.html
