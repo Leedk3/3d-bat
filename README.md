@@ -106,7 +106,7 @@ Make sure, that the LiDAR scan file names follow this naming format `000000.pcd,
 |  ![R](https://github.com/walzimmer/bat-3d/blob/master/assets/textures/keyboard_small/r.png)  | Enable/Disable Rotation mode||
 |     |  ![LEFT](https://github.com/walzimmer/bat-3d/blob/master/assets/textures/keyboard_small/left.png) | Rotate selected object counter-clock-wise (TODO)|
 |     |  ![RIGHT](https://github.com/walzimmer/bat-3d/blob/master/assets/textures/keyboard_small/right.png)  | Rotate selected object clock-wise (TODO)|
-|  ![Y](https://github.com/walzimmer/bat-3d/blob/master/assets/textures/keyboard_small/y.png)  | Enable/Disable Scaling mode ||
+|  ![Y](https://github.com/walzimmer/bat-3d/blob/master/assets/textures/keyboard_small/s.png)  | Enable/Disable Scaling mode ||
 |     | ![UP](https://github.com/walzimmer/bat-3d/blob/master/assets/textures/keyboard_small/up.png) | Increase length along longitudinal axis (y-axis) (TODO)|
 |     | ![DOWN](https://github.com/walzimmer/bat-3d/blob/master/assets/textures/keyboard_small/down.png) | Decrease length along longitudinal axis (y-axis) (TODO)|
 |     | ![LEFT](https://github.com/walzimmer/bat-3d/blob/master/assets/textures/keyboard_small/left.png)  | Decrease width along lateral axis (x-axis) (TODO)|
